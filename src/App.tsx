@@ -39,7 +39,7 @@ function App() {
     }
   };
   return (
-    <div className="min-h-screen bg-gradient-to-br from-cream-50 to-gray-100">
+    <div className="min-h-screen bg-cream-50 text-olive-900">
 
       <div className="container mx-auto px-4 py-8 md:py-16">
         <header className="text-center mb-12">
